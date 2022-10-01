@@ -1,7 +1,7 @@
 name: multi_pile_faces
 description: A Flutter package that adds multiple users/persons pile faces.
 version: 1.0.0
-homepage:
+homepage: https://github.com/aliMissaoui/Flutter---Multiple-Pile-Faces-Package
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
